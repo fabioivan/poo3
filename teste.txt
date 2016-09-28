@@ -1,2 +1,1 @@
-Documento de texto com uma linha
-Agora tem 2 linhas
+Documento de texto co uma linha
